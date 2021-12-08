@@ -1,0 +1,22 @@
+INSTRUCTIONS
+
+NOTE: This patch will replace your ngStats.cfg file. If you have modified any settings in this file you will need to backup your existing 
+ngStats.cfg file and manually make put the settings back.
+
+Unzip this patch archive into your UnrealTournament directory making sure to maintain is directory structure.
+
+**** SPECIAL NOTE FOR TIMEZONE GMT 0:00 USERS ****
+
+If you are experiencing the Time Zone GMT 0:00 bug (UK users for example) where ngStats will not show any games played you will need to 
+delete your database before playing UT after application of this patch. DO NOT follow this procedure unless this is the problem you were 
+getting the patch for as it will COMPLETELY erase your local ngStats. Just install the patch and play UT and you will be fine. If your games
+showed up just fine and you are just upgrading DO NOT delete your databases! If this is your problem, however, here is what you need to do:
+
+After installing the patch but before playing UT again go to your UnrealTournament\NetGamesUSA.com\ngStats\data\ directory and delete all the 
+.db files you find in this directory. Next time you play UT and view your ngStats they will be working properly.
+
+**************************************************
+
+The history.txt file located in the NetGamesUSA.com/ngStats directory contains a list of fixes for ngStats. The ngWorldStats.exe is also updated 
+in this patch to version 1.5.4 and fixes several issues with servers reporting they were ngWorldStats enabled when they were in fact experiencing 
+problems.
