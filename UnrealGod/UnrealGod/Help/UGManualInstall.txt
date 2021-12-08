@@ -1,0 +1,1 @@
+Place UG-Entry.unr in your map folder. Everything else goes into your system folder.
