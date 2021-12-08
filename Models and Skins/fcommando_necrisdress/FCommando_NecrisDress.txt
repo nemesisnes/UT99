@@ -1,0 +1,39 @@
+Title       : NecrisDress
+Object      : Female Commando Skin
+Version     : 1.0
+Date        : 10/12/06
+For         : Unreal Tournament
+Author      : Epic Megagames
+Changed by  : MastaBlasta
+E-Mail      : Slyguy101@hotmail.com
+Editors used: UnrealED 2
+              Paintshop Pro 8
+              UTSkinMaker 241
+Files       : FCommando_NecrisDress.int
+              FCommando_NecrisDress.utx
+              FCommando_NecrisDress.jpg
+              FCommando_NecrisDress.txt
+
+Description:
+------------
+- The "Female Commando > Necris" wearing a mini skirt and small top, so you can enjoy the view of her cleavage.
+- Made by Epic, its an early prototype of the "Female Commando > Necris" Skin.
+- But with MY major corrections and alterations to the skins.
+- I found this in the unused texturefile "Gothfem.utx".
+- Team colours with 4 familiar faces, 3 new faces, all with eyes!
+
+
+Installation:
+-------------
+Double click on the UMOD file for auto install.
+
+Other Stuff:
+------------
+You are not allowed to sell this skin, all right?
+Please always include this Readme.txt-file.
+
+---------------------------------------------------------------------------
+UNREAL (c)1998 Epic Megagames, Inc.  All Rights Reserved.  Distributed by
+GT Interactive Software, Inc. under license.  UNREAL and the UNREAL logo are
+registered trademarks of Epic Megagames, Inc. All other trademarks and trade
+names are properties of their respective owners.
